@@ -1,5 +1,11 @@
 # NHS.UK frontend Changelog
 
+## 3.1.1 - Unreleased
+
+:wrench: **Fixes**
+
+- Fix styles for the `nhsuk-link-style-white`
+
 ## 3.1.0 - 24 April 2020
 
 :new: **New features**
